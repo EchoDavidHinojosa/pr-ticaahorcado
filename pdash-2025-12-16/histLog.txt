@@ -1,0 +1,44 @@
+----------------------------------------------------------------------
+Process Dashboard - logging started at Tue Dec 16 22:05:21 CET 2025
+Eclipse Adoptium JRE 21.0.9; Windows 11
+Process Dashboard version 2.7
+Using LocalWorkingDirectory[C:\pspdata]
+No user preferences file found; using system-wide defaults.
+2025-12-16 22:05:24.817:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2025-12-16 22:05:24.824:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2025-12-16 22:05:24.859:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Created default translation engine.
+Running as user Echo
+[Ljava.lang.Object;@76efb8d4=>PropertyKey<top><Proyecto>
+Saved C:\pspdata\global.dat
+Saved C:\pspdata\global.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\global.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\global.dat
+Saved C:\pspdata\0.dat
+Saved C:\pspdata\0.dat

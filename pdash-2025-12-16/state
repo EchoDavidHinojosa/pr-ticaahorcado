@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!-- hierarchical work breakdown structure -->
+
+<node name="top">
+  <node name="Proyecto" selected="true">
+    <node name="horcado" selected="true">
+      <node name="PSP0.1" templateID="PSP0.1" dataFile="0.dat" defectLog="0.def" selected="true">
+        <node name="Planning"/>
+        <node name="Design" selected="true"/>
+        <node name="Code"/>
+        <node name="Compile"/>
+        <node name="Test"/>
+        <node name="Postmortem"/>
+      </node>
+    </node>
+  </node>
+  <node name="No Proyecto"/>
+</node>

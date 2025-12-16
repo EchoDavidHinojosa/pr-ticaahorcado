@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<timeLogEntries>
+  <time path="/Proyecto/new&#10;/Proyecto/horcado" flag="R" />
+  <time id="1" path="/Proyecto/horcado/PSP0.1/Planning" start="@1765919491785" delta="3" flag="A" />
+  <time id="2" path="/Proyecto/horcado/PSP0.1/Design" start="@1765920743448" delta="9" flag="A" />
+  <time id="3" path="/Proyecto/horcado/PSP0.1/Code" start="@1765921255148" delta="22" flag="A" />
+  <time id="4" path="/Proyecto/horcado/PSP0.1/Compile" start="@1765922578002" delta="1" flag="A" />
+  <time id="5" path="/Proyecto/horcado/PSP0.1/Test" start="@1765922652553" delta="6" flag="A" />
+  <time id="6" path="/Proyecto/horcado/PSP0.1/Postmortem" start="@1765923039112" delta="7" flag="A" />
+</timeLogEntries>
